@@ -87,6 +87,7 @@ export const config: VendureConfig = {
             port: 3002,
             adminUiConfig: {
                 apiPort: 3000,
+                apiHost: 'https://p01--server--v7ggq8g6nl78.code.runs'
             },
         }),
     ],
